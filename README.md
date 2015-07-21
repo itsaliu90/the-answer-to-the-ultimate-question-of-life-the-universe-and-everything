@@ -1,6 +1,11 @@
-# the answer to the ultimate question of life the universe and everything
+# the answer to the ultimate question of life, the universe, and everything
 
 A library that returns 42.
+
+### Installation with node package manager
+```
+npm install the-answer-to-the-ultimate-question-of-life-the-universe-and-everything
+```
 
 ### Usage
 ##### Require the module

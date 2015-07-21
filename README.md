@@ -10,10 +10,10 @@ npm install the-answer-to-the-ultimate-question-of-life-the-universe-and-everyth
 ### Usage
 ##### Require the module
 ```javascript
-var the-answer-to-the-ultimate-question-of-life-the-universe-and-everything = require('the-answer-to-the-ultimate-question-of-life-the-universe-and-everything');
+var theAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything = require('the-answer-to-the-ultimate-question-of-life-the-universe-and-everything');
 ```
 
 ##### Get to work!
 ```javascript
-the-answer-to-the-ultimate-question-of-life-the-universe-and-everything(); // 42
+theAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything(); // 42
 ```

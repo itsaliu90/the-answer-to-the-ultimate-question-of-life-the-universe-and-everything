@@ -1,0 +1,23 @@
+{
+  "name": "the-answer-to-the-ultimate-question-of-life-the-universe-and-everything",
+  "version": "1.0.0",
+  "description": "Returns 42",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yuningalexliu/the-answer-to-the-ultimate-question-of-life-the-universe-and-everything.git"
+  },
+  "keywords": [
+    "42",
+    "forty-two"
+  ],
+  "author": "Alex Y. Liu <yuningalexliu@gmail.com> (http://yuningalexliu.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuningalexliu/the-answer-to-the-ultimate-question-of-life-the-universe-and-everything/issues"
+  },
+  "homepage": "https://github.com/yuningalexliu/the-answer-to-the-ultimate-question-of-life-the-universe-and-everything"
+}
